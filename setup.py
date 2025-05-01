@@ -27,6 +27,7 @@ setup(name="pipelinewise-target-snowflake",
           'inflection==0.5.1',
           'joblib==1.2.0',
           'boto3==1.28.20',
+          'certifi==2025.01.31',
       ],
       extras_require={
           "test": [
